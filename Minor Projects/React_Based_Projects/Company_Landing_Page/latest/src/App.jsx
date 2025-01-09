@@ -23,7 +23,7 @@ const App = () => {
  
      
       {/* here comes my frame --the main container */}
-      {/* <Frame/> */}
+      <Frame/>
 
       {/* below are my routes and route */}
       <Routes>
